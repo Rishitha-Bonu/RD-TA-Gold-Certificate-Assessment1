@@ -1,0 +1,16 @@
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\bin\Debug\net6.0\AutomationProject.API.deps.json
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\bin\Debug\net6.0\AutomationProject.API.dll
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\bin\Debug\net6.0\AutomationProject.API.pdb
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\obj\Debug\net6.0\AutomationProject.API.csproj.AssemblyReference.cache
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\obj\Debug\net6.0\AutomationProject.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\obj\Debug\net6.0\AutomationProject.API.AssemblyInfoInputs.cache
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\obj\Debug\net6.0\AutomationProject.API.AssemblyInfo.cs
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\obj\Debug\net6.0\AutomationProject.API.csproj.CoreCompileInputs.cache
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\obj\Debug\net6.0\AutomationProject.API.dll
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\obj\Debug\net6.0\refint\AutomationProject.API.dll
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\obj\Debug\net6.0\AutomationProject.API.pdb
+C:\Users\rishitha_bonu\Desktop\repos\TestAutomation\AutomationProject.Framework\obj\Debug\net6.0\ref\AutomationProject.API.dll
